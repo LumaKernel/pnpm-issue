@@ -1,0 +1,6 @@
+[submodule "v1_2_3"]
+	path = v1_2_3
+	url = https://github.com/LumaKernel/pnpm-issue
+[submodule "v0_2_0"]
+	path = v0_2_0
+	url = https://github.com/LumaKernel/pnpm-issue
